@@ -270,7 +270,7 @@ public class Calculator extends javax.swing.JFrame {
             txtResult.setText("");
         }
         String cmd = evt.getActionCommand();
-        
+        ///hode
         txtResult.setText(txtResult.getText() + cmd);
     }//GEN-LAST:event_btnNumber6ActionPerformed
 
